@@ -72,13 +72,13 @@
 byte IP_AP[] = {192, 168, 4, 66};   // статический IP точки доступа (менять только последнюю цифру)
 
 // ----- AP (точка доступа) -------
-#define AP_SSID "GyverLamp"
-#define AP_PASS "12345678"
+#define AP_SSID "Lamp"
+#define AP_PASS "72389951"
 #define AP_PORT 8888
 
 // -------- Менеджер WiFi ---------
-#define AC_SSID "AutoConnectAP"
-#define AC_PASS "12345678"
+#define AC_SSID "Lamp"
+#define AC_PASS "72389951"
 
 // ============= ДЛЯ РАЗРАБОТЧИКОВ =============
 #define LED_PIN D4             // пин ленты
